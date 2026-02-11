@@ -1,0 +1,125 @@
+       
+h1{
+    color: gold;
+
+}
+p{
+    color:white
+
+}
+h1:hover{
+    color:rgb(33, 244, 14)
+}
+
+p:hover{
+    color:rgb(33, 224, 14)
+}
+.title2{
+    margin-left:350px;
+    text-align:center;
+    width: 700px;
+    background-color:rgba(0, 0, 0, 0.708);
+    border-radius: 40px;
+    border: 3px solid rgb(0, 255, 8);
+}
+body{
+    background-image:url(../image/Eelu.jpeg) ;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+
+h2{
+    color: goldenrod;
+}
+ul{
+    color: rgb(234, 237, 238);
+}
+.title1{
+    margin-left:400px;
+    text-align:center;
+    width: 600px;
+    background-color: rgba(0, 0, 0, 0.708);
+    border-radius: 40px;
+    border:2px solid rgb(0, 255, 8);
+}
+h2:hover{
+    color: rgb(33, 244, 14);
+}
+ul:hover{
+    color:rgb(0, 255, 8)
+}
+
+
+
+
+
+h3{
+    color: gold;
+
+}
+p{
+    color: rgb(234, 237, 238);
+}
+.title3{
+    margin-left:200px;
+    text-align:center;
+    width: 1000px;
+    background-color: rgba(0, 0, 0, 0.708);
+    border: 3px solid rgb(0, 255, 8);
+    border-radius: 40px;
+}
+h3{
+    color: gold;
+
+}
+ol{
+    color: rgb(234, 237, 238);
+}
+.title{
+    margin-left:400px;
+    text-align:center;
+width: 600px;
+    background-color: rgba(0, 0, 0, 0.708);
+    border-radius: 40px;
+    border:3px solid rgb(0, 255, 8) ;
+}
+h3:hover{
+    color:rgb(0, 255, 8);
+}
+ol:hover{
+    color: rgb(0, 255, 8);
+}
+
+label{
+    color:tomato;
+    font-weight: bold;
+}
+h4{
+    color:gold;
+}
+
+textarea{
+    color:aliceblue;
+    background-color: chocolate;
+}
+
+
+button{
+    margin-left:430px;
+    text-align:center;
+    color:black;
+    background-color: rgb(90, 205, 115);
+}
+
+.but1:hover{
+    color: blue;
+    background-color: yellow;
+}
+.but2:hover{
+      color: blue;
+    background-color: yellow;
+}
